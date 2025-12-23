@@ -163,3 +163,13 @@ The report includes:
 
 This project was completed as part of a **Data Engineering Internship** at **Cognifyz Technologies**, with a focus on applying data engineering concepts such as **data preprocessing**, **transformation**, **exploratory analysis**, and **insight-driven reporting** to **a real-world dataset**.
 
+---
+
+## 🧑‍💻 Author
+
+**👤 Harsh Belekar**  
+📍 Data Analyst | Python | SQL | Power BI | Excel | Data Visualization  
+📬 [LinkedIn](https://www.linkedin.com/in/harshbelekar) | 🔗[GitHub](https://github.com/Harsh-Belekar)
+
+📧 [harshbelekar74@gmail.com](mailto:harshbelekar74@gmail.com)
+
